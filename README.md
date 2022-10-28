@@ -12,5 +12,3 @@ In this project, I made use of:
 - `Firebase` (database)
 
 PS: This app is for study purposes focusing on Vue.js, so it doesn't have all the required resources for real-life use.
-
-Check out the [demo](http://vuejs-stock-trader.eduardomarcal.com).
